@@ -183,22 +183,10 @@ To add a new one:
 
 ⸻
 
-✅ Summary of “What’s Next”
-
-Step	Goal	Deliverable
-1	Set up board & libraries	Confirm compile success
-2	Connect IMU	Verify serial output of accel data
-3	Upload base sketch	See startup animation
-4	Integrate LVGL UI	Use Streamline Studio export
-5	Implement touch gestures	Swipe and tap navigation
-6	Map IMU to graphics	Dot motion, G-circle, etc.
-7	Add more apps	Expand modular framework
-8	Polish visuals	Fonts, icons, startup branding
 
 
-⸻
 #############
-UI INTEGRATION
+#UI INTEGRATION
 
 This next step gives you LVGL starter UI code for your two primary apps:
 	•	Dot Telemetry → a live X/Y plot of acceleration points
