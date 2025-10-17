@@ -358,7 +358,7 @@ void App_FrictionCircle::update() {
 ```/assets/ui_screens/```
 
 
-	2.	Save these as:
+2.	Save these as:
 
 ```
 /assets/ui_screens/ui_dottelemetry.h
@@ -366,12 +366,12 @@ void App_FrictionCircle::update() {
 ```
 
 
-	3.	Include them in your app headers as shown above.
-	4.	Recompile and upload.
+3.	Include them in your app headers as shown above.
+4.	Recompile and upload.
 
 You’ll now have:
-	•	Dot Telemetry showing live dot motion based on IMU G-forces.
-	•	Friction Circle plotting G vectors inside a circular region.
+•	Dot Telemetry showing live dot motion based on IMU G-forces.
+•	Friction Circle plotting G vectors inside a circular region.
 
 ⸻
 
