@@ -200,7 +200,7 @@ Step	Goal	Deliverable
 #############
 UI INTEGRATION
 
-Perfect 👌 — this next step gives you LVGL starter UI code for your two primary apps:
+This next step gives you LVGL starter UI code for your two primary apps:
 	•	Dot Telemetry → a live X/Y plot of acceleration points
 	•	Friction Circle → a circular visualization of G-force magnitude and direction
 
@@ -397,10 +397,3 @@ You’ll now have:
 3.	Add App Titles and Branding:
 	•	Insert your own title graphics or logos.
 	•	Define a visual theme in /assets/ui_themes/.
-4.	Next Up (Optional):
-	•	I can provide matching LVGL templates for:
-	•	📈 PeakSummary (line graph)
-	•	⏱ TouchTimer (digital stopwatch)
-	•	🧭 CompassElevation (heading + altitude dial)
-
-⸻
